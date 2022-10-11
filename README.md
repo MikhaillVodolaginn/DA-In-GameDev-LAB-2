@@ -69,6 +69,7 @@
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2023.03.04.png?raw=true)
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2023.05.50.png?raw=true)
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2023.07.29.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-12%20в%2000.56.30.png?raw=true)
 
 ## Задание 2
 - Подготовка
