@@ -57,47 +57,15 @@
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2022.45.11.png?raw=true)
 
 - Написать функционал на Unity, в котором будет воспризводиться аудио-файл в зависимости от значения данных из таблицы
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-09-28%20в%2022.07.22.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2023.03.04.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2023.05.50.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2023.07.29.png?raw=true)
 
 ## Задание 2
-- Подготовка данных для работы с алгоритмом линейной регрессии. 10 видов данных были установлены случайным образом, и данные находились в линейной зависимости. Данные преобразуются в формат массива, чтобы их можно было вычислить напрямую при использовании умножения и сложения.
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.26.27.png?raw=true)
-
-- Определение связанных функций. Функция модели: определяет модель линейной регрессии wx + b. Функция потерь: функция потерь среднеквадратичной ошибки. Функция оптимизации: метод градиентного спуска для нахождения частных производных w и b.
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.32.50.png?raw=true)
-
-- Инициализация и модель итеративной оптимизации
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.39.09.png?raw=true)
-
-- 2 итерации
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.44.32.png?raw=true)
-
-- 3 итерации
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.46.50.png?raw=true)
-
-- 4 итерации
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.47.09.png?raw=true)
-
-- 5 итераций
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.49.05.png?raw=true)
-
-- 10000 итераций
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2017.08.40.png?raw=true)
+- Подготовка
 
 ## Задание 3
 ### Должна ли величина loss стремиться к нулю при изменении исходных данных?
-
-- Величина loss является среднеквадратичной ошибкой. Она будет тем меньше, чем ближе расположение точек к прямой с заданными коэффициентами, и будет стремиться к нулю, если точки будут лежать на одной прямой.
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2022.15.22.png?raw=true)
-
-### Какова роль параметра Lr?
-
-- Параметр Lr отвечает за скорость обучения программы. Чем меньше Lr, тем меньше необходимо пройти итераций для получения результата с близкой к 0 loss.
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2017.08.40.png?raw=true)
-
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2022.45.23.png?raw=true)
-
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2022.51.42.png?raw=true)
 
 ## Выводы
 
