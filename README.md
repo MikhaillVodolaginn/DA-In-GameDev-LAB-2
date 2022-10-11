@@ -47,13 +47,13 @@
 
 - Добавление JSON
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.13.10.png?raw=true)
-- Скрипт на python
+- Добавление доступа
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.41.10.png?raw=true)
-- Вывод скрипта на python
+- Скрипт на python
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.34.37.png?raw=true)
-- Данные в таблице
+- Вывод скрипта на python
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.36.31.png?raw=true)
-- Реализовать запись данных из скрипта на python в google-таблицу
+- Данные в таблице
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.37.04.png?raw=true)
 
 - Создать новый проект на Unity, который будет получать данные из google-таблицы, в которую были записаны данные в предыдущем пункте
