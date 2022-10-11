@@ -39,10 +39,12 @@
 
 ## Задание 1
 - В облачном сервисе google console подключить API для работы с google sheets и google drive
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-09-28%20в%2016.18.41.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2020.54.52.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.16.06.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.16.17.png?raw=true)
 
 - Реализовать запись данных из скрипта на python в google-таблицу
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-09-28%20в%2016.18.41.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.17.24.png?raw=true)
 
 - Создать новый проект на Unity, который будет получать данные из google-таблицы, в которую были записаны данные в предыдущем пункте
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-09-28%20в%2016.18.41.png?raw=true)
