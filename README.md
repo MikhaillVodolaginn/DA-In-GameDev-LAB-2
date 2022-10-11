@@ -51,7 +51,10 @@
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.37.04.png?raw=true)
 
 - Создать новый проект на Unity, который будет получать данные из google-таблицы, в которую были записаны данные в предыдущем пункте
-[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-09-28%20в%2016.18.41.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2021.46.37.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2022.20.54.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2022.21.01.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-10-11%20в%2022.45.11.png?raw=true)
 
 - Написать функционал на Unity, в котором будет воспризводиться аудио-файл в зависимости от значения данных из таблицы
 [![](https://github.com/MikhaillVodolaginn/DA-In-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-09-28%20в%2022.07.22.png?raw=true)
