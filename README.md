@@ -38,11 +38,17 @@
 Познакомиться с программными средствами для организции передачи данных между инструментами google, Python и Unity.
 
 ## Задание 1
-- Hello, world в google colab
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2016.18.41.png?raw=true)
+- В облачном сервисе google console подключить API для работы с google sheets и google drive
+[![](https://github.com/MikhaillVodolaginn/DA-IN-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-09-28%20в%2016.18.41.png?raw=true)
 
-- Hello, world в unity
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-lab1/blob/main/Снимок%20экрана%202022-09-28%20в%2022.07.22.png?raw=true)
+- Реализовать запись данных из скрипта на python в google-таблицу
+[![](https://github.com/MikhaillVodolaginn/DA-IN-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-09-28%20в%2016.18.41.png?raw=true)
+
+- Создать новый проект на Unity, который будет получать данные из google-таблицы, в которую были записаны данные в предыдущем пункте
+[![](https://github.com/MikhaillVodolaginn/DA-IN-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-09-28%20в%2016.18.41.png?raw=true)
+
+- Написать функционал на Unity, в котором будет воспризводиться аудио-файл в зависимости от значения данных из таблицы
+[![](https://github.com/MikhaillVodolaginn/DA-IN-GameDev-LAB-2/blob/main/Снимок%20экрана%202022-09-28%20в%2022.07.22.png?raw=true)
 
 ## Задание 2
 - Подготовка данных для работы с алгоритмом линейной регрессии. 10 видов данных были установлены случайным образом, и данные находились в линейной зависимости. Данные преобразуются в формат массива, чтобы их можно было вычислить напрямую при использовании умножения и сложения.
